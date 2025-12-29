@@ -127,7 +127,7 @@ except:
     return {"error": "Invalid price format"}, 400
 ```
 
-Note: Corrected code is available in `https://github.com/nileshkashani/Assessment/blob/main/fix.py`.
+Corrected code: [https://github.com/nileshkashani/Assessment/blob/main/fix.py](https://github.com/nileshkashani/Assessment/blob/main/fix.py).
 
 ---
 
@@ -189,6 +189,10 @@ GET /api/companies/{company_id}/alerts/low-stock
 - Must handle multiple warehouses  
 - Include supplier information  
 
+  
+
+### ANSWER
+---
 ### Language / Framework
 
 Node.js / Express
@@ -217,4 +221,7 @@ Instead of using a single large SQL query or one complex Sequelize call, the flo
 4. Load recent sales activity  
 5. Apply low-stock rules  
 6. Determine threshold per product type  
-7. Exclude products above threshold  
+7. Exclude products above threshold
+
+Implementation code: [https://github.com/nileshkashani/Assessment/blob/main/api.js](https://github.com/nileshkashani/Assessment/blob/main/api.js).
+
