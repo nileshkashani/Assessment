@@ -172,6 +172,8 @@ Corrected code: [https://github.com/nileshkashani/Assessment/blob/main/fix.py](h
 - Product.sku UNIQUE  
 - Index on Inventory(product_id, warehouse_id)
 
+ER Diagram: [https://github.com/nileshkashani/Assessment/blob/main/ERD.png](https://github.com/nileshkashani/Assessment/blob/main/ERD.png)
+
 ---
 
 ## Part 3: API Implementation (35 minutes)
