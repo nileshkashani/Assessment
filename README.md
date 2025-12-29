@@ -127,7 +127,7 @@ except:
     return {"error": "Invalid price format"}, 400
 ```
 
-Note: Corrected code is available in `fix.py`.
+Note: Corrected code is available in `https://github.com/nileshkashani/Assessment/blob/main/fix.py`.
 
 ---
 
